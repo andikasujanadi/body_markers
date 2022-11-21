@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+tensorflow_hub
+imageio
+matplotlib
+git+https://github.com/tensorflow/docs
+https://github.com/DeepLabCut/DeepLabCut/archive/master.zip
