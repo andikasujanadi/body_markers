@@ -3,5 +3,6 @@ tensorflow
 tensorflow_hub
 imageio
 matplotlib
+mediapipe
 git+https://github.com/tensorflow/docs
 https://github.com/DeepLabCut/DeepLabCut/archive/master.zip
